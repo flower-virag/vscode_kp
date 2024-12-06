@@ -1,0 +1,26 @@
+body{
+    color: #2f0000;
+    background-color: beige;
+    font-size: 12pt;
+}
+
+.szorzet{
+    color: red;
+}
+
+#scottish{
+    font-size: 18pt;
+    background-color: #737393;
+    color: whitesmoke;
+}
+
+
+#savannah{
+    background-color: #808080;
+    color: azure;
+}
+
+#bengali{
+    background-color: #778899;
+    color: aliceblue;
+}
